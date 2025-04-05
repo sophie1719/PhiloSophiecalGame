@@ -1,0 +1,193 @@
+Number of human players: 2
+Number of machine players: 0
+  PLAYER #1
+  Nickname: BloodDeep
+  Hero:     Elder
+  Weapon:   Arrows of Relations
+  Shield:   Armor of Adaptability
+  PLAYER #2
+  Nickname: philo1719
+  Hero:     Kid
+  Weapon:   Arrows of Relations
+  Shield:   Energy of Overcoming
+Action: BloodDeep hits philo1719.
+philo1719's HP: 166.06
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 135.92
+Action: BloodDeep hits philo1719.
+philo1719's HP: 152.12
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 121.84
+Action: BloodDeep hits philo1719.
+philo1719's HP: 138.18
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 107.76
+Action: BloodDeep raises the shield.
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 96.88
+Action: BloodDeep hits philo1719.
+philo1719's HP: 124.24
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 82.80
+Action: BloodDeep hits philo1719.
+philo1719's HP: 110.30
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 68.72
+Action: BloodDeep hits philo1719.
+philo1719's HP: 96.36
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 54.64
+Action: BloodDeep hits philo1719.
+philo1719's HP: 82.42
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 40.56
+Action: BloodDeep hits philo1719.
+philo1719's HP: 68.48
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 26.48
+Action: BloodDeep raises the shield.
+Action: philo1719 raises the shield.
+Action: BloodDeep raises the shield.
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 15.60
+Action: BloodDeep hits philo1719.
+philo1719's HP: 54.54
+Action: philo1719 raises the shield.
+Action: BloodDeep hits philo1719.
+philo1719's HP: 42.30
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 1.52
+Action: BloodDeep hits philo1719.
+philo1719's HP: 28.36
+Action: philo1719 hits BloodDeep.
+BloodDeep dies.
+philo1719 is the winner.
+
+
+==============================================
+
+
+Number of human players: 2
+Number of machine players: 2
+  PLAYER #1
+  Nickname: BloodDeep
+  Hero:     Kid
+  Weapon:   Sword of Ambitions
+  Shield:   Shield of Escapism
+  PLAYER #2
+  Nickname: philo1719
+  Hero:     Adult
+  Weapon:   Spear of Curiosity
+  Shield:   Energy of Overcoming
+  PLAYER #3
+  Nickname: Machine#3
+  Hero:     Elder
+  Weapon:   Sword of Ambitions
+  Shield:   Armor of Adaptability
+  PLAYER #4
+  Nickname: Machine#4
+  Hero:     Elder
+  Weapon:   Sword of Ambitions
+  Shield:   Energy of Overcoming
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 139.44
+Action: philo1719 hits Machine#3.
+Machine#3's HP: 123.60
+Action: Machine#3 raises the shield.
+Action: Machine#4 hits BloodDeep.
+BloodDeep's HP: 156.22
+Action: BloodDeep hits Machine#4.
+Machine#4's HP: 125.36
+Action: philo1719 hits Machine#4.
+Machine#4's HP: 109.52
+Action: Machine#3 hits philo1719.
+philo1719's HP: 133.32
+Action: Machine#4 hits philo1719.
+philo1719's HP: 106.64
+Action: BloodDeep hits philo1719.
+philo1719's HP: 95.60
+Action: philo1719 raises the shield.
+Action: Machine#3 hits philo1719.
+philo1719's HP: 71.82
+Action: Machine#4 hits philo1719.
+philo1719's HP: 61.16
+Action: BloodDeep hits philo1719.
+philo1719's HP: 38.20
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 141.46
+Action: Machine#3 hits BloodDeep.
+BloodDeep's HP: 130.80
+Action: Machine#4 raises the shield.
+Action: BloodDeep hits philo1719.
+philo1719's HP: 27.16
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 116.04
+Action: Machine#3 raises the shield.
+Action: Machine#4 raises the shield.
+Action: BloodDeep raises the shield.
+Action: philo1719 hits Machine#4.
+Machine#4's HP: 79.88
+Action: Machine#3 hits Machine#4.
+Machine#4's HP: 57.26
+Action: Machine#4 raises the shield.
+Action: BloodDeep hits philo1719.
+philo1719's HP: 16.12
+Action: philo1719 hits BloodDeep.
+BloodDeep's HP: 101.28
+Action: Machine#3 hits philo1719.
+philo1719's HP: 4.16
+Action: Machine#4 hits philo1719.
+philo1719 dies.
+Action: BloodDeep hits Machine#4.
+Machine#4's HP: 46.70
+Action: Machine#3 raises the shield.
+Action: Machine#4 hits BloodDeep.
+BloodDeep's HP: 90.62
+Action: BloodDeep hits Machine#4.
+Machine#4's HP: 36.14
+Action: Machine#3 hits Machine#4.
+Machine#4's HP: 10.62
+Action: Machine#4 raises the shield.
+Action: BloodDeep raises the shield.
+Action: Machine#3 hits Machine#4.
+Machine#4's HP: 10.62
+Action: Machine#4 hits BloodDeep.
+BloodDeep's HP: 83.60
+Action: BloodDeep hits Machine#4.
+Machine#4 dies.
+Action: Machine#3 raises the shield.
+Action: BloodDeep raises the shield.
+Action: Machine#3 hits BloodDeep.
+BloodDeep's HP: 76.58
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 98.96
+Action: Machine#3 hits BloodDeep.
+BloodDeep's HP: 65.92
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 74.32
+Action: Machine#3 raises the shield.
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 66.16
+Action: Machine#3 raises the shield.
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 47.12
+Action: Machine#3 hits BloodDeep.
+BloodDeep's HP: 55.26
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 36.56
+Action: Machine#3 raises the shield.
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 17.52
+Action: Machine#3 hits BloodDeep.
+BloodDeep's HP: 44.60
+Action: BloodDeep hits Machine#3.
+Machine#3's HP: 6.96
+Action: Machine#3 raises the shield.
+Action: BloodDeep hits Machine#3.
+Machine#3 dies.
+BloodDeep is the winner.
+
+
+==============================================
+
+
